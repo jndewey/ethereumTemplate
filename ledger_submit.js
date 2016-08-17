@@ -1,7 +1,7 @@
 var offerContract = web3.eth.contract(pfoffer_abi);
 var _offerContract = offerContract.new(
     contractor,
-    "0xbb9bc244d798123fde783fcc1c72d3bb8c189413", // client DAO address
+    "0xbb9bc389dhdh9800ok3fcc1c72d3bb8c189413", // client DAO address
     '0x0',  // Should be a hash of the paper contract
     web3.toWei(50, "ether"), //total costs
     web3.toWei(10, "ether"), //one time costs

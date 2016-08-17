@@ -1,4 +1,4 @@
-// Proposal for Ledger
+// Proposal for *******
 
 
 import "./DAO.sol";
